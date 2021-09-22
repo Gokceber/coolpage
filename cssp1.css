@@ -1,0 +1,15 @@
+body{
+    background-color: #00D1AE;
+}
+
+.first{
+    width: 400px;
+    height: 200px;
+    background-color: #00D1AE;
+}
+
+.second{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
