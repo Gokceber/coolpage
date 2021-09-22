@@ -35,7 +35,22 @@ nav a:hover{
 }
 
 
+#firstvideo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.twovideos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    border: 1px solid black;
+    }
 
 p {
     font-size: 20px;
@@ -52,6 +67,10 @@ li{
 #yellowpart {
     background-color: #ffc700;
     margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 div {
@@ -73,6 +92,10 @@ h2 {
 #community {
     background-color: black;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #communityp {
